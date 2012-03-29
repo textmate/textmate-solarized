@@ -376,7 +376,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>		
+				<string></string>
 				<key>foreground</key>
 				<string>#536871</string>
 			</dict>
@@ -470,10 +470,10 @@
 			<key>scope</key>
 			<string>entity.other.attribute-name.class.css</string>
 			<key>settings</key>
-            <dict>
+			<dict>
 				<key>fontStyle</key>
 				<string></string>
-                <key>foreground</key>
+				<key>foreground</key>
 				<string>#268BD2</string>
 			</dict>
 		</dict>
@@ -496,10 +496,10 @@
 			<key>scope</key>
 			<string>entity.other.attribute-name.id.css</string>
 			<key>settings</key>
-            <dict>
+			<dict>
 				<key>fontStyle</key>
 				<string></string>
-                <key>foreground</key>
+				<key>foreground</key>
 				<string>#268BD2</string>
 			</dict>
 		</dict>
@@ -605,7 +605,7 @@
 				<key>foreground</key>
 				<string>#899090</string>
 			</dict>
-    	</dict>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>HTML: Comment Block</string>
@@ -619,7 +619,7 @@
 				<string>#839496</string>
 			</dict>
 		</dict>
-    	<dict>
+		<dict>
 			<key>name</key>
 			<string>HTML: Script</string>
 			<key>scope</key>
@@ -1860,7 +1860,6 @@
 				<string>#DC322F</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Markdown: List</string>
@@ -1883,7 +1882,6 @@
 				<string>#b58900</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Markdown: Link</string>
@@ -1895,7 +1893,6 @@
 				<string>#859900</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Markdown: Image</string>
@@ -1909,7 +1906,6 @@
 				<string>#859900</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Markdown: Heading entity name</string>
@@ -1921,13 +1917,11 @@
 				<string>#CB4B16</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Markdown: separator</string>
 			<key>scope</key>
-			<string>meta.separator.markdown
-			</string>
+			<string>meta.separator.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -1936,7 +1930,6 @@
 				<string>#268bd2</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Markdown: code block</string>
@@ -1948,7 +1941,6 @@
 				<string>#b58900</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Markdown: code inline</string>
@@ -1960,7 +1952,6 @@
 				<string>#b58900</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Markdown: punctuation definition</string>
@@ -1974,7 +1965,6 @@
 				<string>#93a1a1</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Markdown: blockquote punctuation definition</string>
@@ -1987,7 +1977,6 @@
 				<string>#2aa198</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>text plain</string>
@@ -1999,8 +1988,6 @@
 				<string>#6a8187</string>
 			</dict>
 		</dict>
-		
-		
 	</array>
 	<key>uuid</key>
 	<string>38E819D9-AE02-452F-9231-ECC3B204AFD7</string>
