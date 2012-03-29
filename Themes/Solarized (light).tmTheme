@@ -1897,9 +1897,7 @@
 			<key>name</key>
 			<string>Markdown: Image</string>
 			<key>scope</key>
-			<string>
-			meta.image.inline.markdown, string.other.link.description.markdown
-			</string>
+			<string>meta.image.inline.markdown, string.other.link.description.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -1956,9 +1954,7 @@
 			<key>name</key>
 			<string>Markdown: punctuation definition</string>
 			<key>scope</key>
-			<string>punctuation.definition.raw.markdown, punctuation.definition.italic.markdown, punctuation.definition.bold.markdown, punctuation.definition.string.begin.markdown,punctuation.definition.string.end.markdown,punctuation.definition.metadata.markdown
-			
-			</string>
+			<string>punctuation.definition.raw.markdown, punctuation.definition.italic.markdown, punctuation.definition.bold.markdown, punctuation.definition.string.begin.markdown,punctuation.definition.string.end.markdown,punctuation.definition.metadata.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -1969,8 +1965,7 @@
 			<key>name</key>
 			<string>Markdown: blockquote punctuation definition</string>
 			<key>scope</key>
-			<string>punctuation.definition.blockquote.markdown
-			</string>
+			<string>punctuation.definition.blockquote.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
