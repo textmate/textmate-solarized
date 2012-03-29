@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>contactEmailRot13</key>
-	<string>fhoyvzvany@tznvy.pbz</string>
+	<string></string>
 	<key>contactName</key>
-	<string>Marcos Ojeda</string>
+	<string>Tom Martin</string>
 	<key>description</key>
-	<string>Ethan Schoonover's Solarized Theme</string>
+	<string>Precision colors for machines and people, originally created by &lt;a href="http://ethanschoonover.com/solarized"&gt;Ethan Schoonover&lt;/a&gt;.</string>
 	<key>name</key>
 	<string>Solarized</string>
 	<key>uuid</key>
-	<string>1E5AD5DB-9F53-4125-9FAE-73F822A2AE25</string>
+	<string>B5D09BEE-820F-4242-A28D-7086C0593A5F</string>
 </dict>
 </plist>
