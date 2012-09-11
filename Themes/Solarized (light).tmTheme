@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Solarized (Light)</string>
+	<key>semanticClass</key>
+	<string>theme.light.solarized</string>
 	<key>settings</key>
 	<array>
 		<dict>
