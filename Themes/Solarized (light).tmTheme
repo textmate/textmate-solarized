@@ -66,17 +66,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>StringNumber</string>
-			<key>scope</key>
-			<string>string</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#586E75</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Regexp</string>
 			<key>scope</key>
 			<string>string.regexp</string>
@@ -338,17 +327,6 @@
 			<string>invalid</string>
 			<key>settings</key>
 			<dict/>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Quoted String</string>
-			<key>scope</key>
-			<string>string.quoted.double, string.quoted.single</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#2aa198</string>
-			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
